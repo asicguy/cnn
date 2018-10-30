@@ -1,4 +1,4 @@
-# Project Title
+# CNN Library for SystemVerilog
 
 SytemVerilog implementation of Alpha-Data CNN example originally in VHDL
 
